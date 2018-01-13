@@ -1,0 +1,1454 @@
+{
+    "data": [
+        {
+          "code": 114,
+          "name": "Upplands Väsby kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 115,
+          "name": "Vallentuna kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 117,
+          "name": "Österåkers kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 120,
+          "name": "Värmdö kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 123,
+          "name": "Järfälla kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 125,
+          "name": "Ekerö kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 126,
+          "name": "Huddinge kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 127,
+          "name": "Botkyrka kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 128,
+          "name": "Salems kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 136,
+          "name": "Haninge kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 138,
+          "name": "Tyresö kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 139,
+          "name": "Upplands-Bro kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 140,
+          "name": "Nykvarns kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 160,
+          "name": "Täby kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 162,
+          "name": "Danderyds kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 163,
+          "name": "Sollentuna kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 180,
+          "name": "Stockholms kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 181,
+          "name": "Södertälje kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 182,
+          "name": "Nacka kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 183,
+          "name": "Sundbybergs kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 184,
+          "name": "Solna kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 186,
+          "name": "Lidingö kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 187,
+          "name": "Vaxholms kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 188,
+          "name": "Norrtälje kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 191,
+          "name": "Sigtuna kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 192,
+          "name": "Nynäshamns kommun",
+          "county": "Stockholms län"
+        },
+        {
+          "code": 305,
+          "name": "Håbo kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 319,
+          "name": "Älvkarleby kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 330,
+          "name": "Knivsta kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 331,
+          "name": "Heby kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 360,
+          "name": "Tierps kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 380,
+          "name": "Uppsala kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 381,
+          "name": "Enköpings kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 382,
+          "name": "Östhammars kommun",
+          "county": "Uppsala län"
+        },
+        {
+          "code": 428,
+          "name": "Vingåkers kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 461,
+          "name": "Gnesta kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 480,
+          "name": "Nyköpings kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 481,
+          "name": "Oxelösunds kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 482,
+          "name": "Flens kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 483,
+          "name": "Katrineholms kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 484,
+          "name": "Eskilstuna kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 486,
+          "name": "Strängnäs kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 488,
+          "name": "Trosa kommun",
+          "county": "Södermanlands län"
+        },
+        {
+          "code": 509,
+          "name": "Ödeshögs kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 512,
+          "name": "Ydre kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 513,
+          "name": "Kinda kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 560,
+          "name": "Boxholms kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 561,
+          "name": "Åtvidabergs kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 562,
+          "name": "Finspångs kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 563,
+          "name": "Valdemarsviks kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 580,
+          "name": "Linköpings kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 581,
+          "name": "Norrköpings kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 582,
+          "name": "Söderköpings kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 583,
+          "name": "Motala kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 584,
+          "name": "Vadstena kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 586,
+          "name": "Mjölby kommun",
+          "county": "Östergötlands län"
+        },
+        {
+          "code": 604,
+          "name": "Aneby kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 617,
+          "name": "Gnosjö kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 642,
+          "name": "Mullsjö kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 643,
+          "name": "Habo kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 662,
+          "name": "Gislaveds kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 665,
+          "name": "Vaggeryds kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 680,
+          "name": "Jönköpings kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 682,
+          "name": "Nässjö kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 683,
+          "name": "Värnamo kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 684,
+          "name": "Sävsjö kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 685,
+          "name": "Vetlanda kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 686,
+          "name": "Eksjö kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 687,
+          "name": "Tranås kommun",
+          "county": "Jönköpings län"
+        },
+        {
+          "code": 760,
+          "name": "Uppvidinge kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 761,
+          "name": "Lessebo kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 763,
+          "name": "Tingsryds kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 764,
+          "name": "Alvesta kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 765,
+          "name": "Älmhults kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 767,
+          "name": "Markaryds kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 780,
+          "name": "Växjö kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 781,
+          "name": "Ljungby kommun",
+          "county": "Kronobergs län"
+        },
+        {
+          "code": 821,
+          "name": "Högsby kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 834,
+          "name": "Torsås kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 840,
+          "name": "Mörbylånga kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 860,
+          "name": "Hultsfreds kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 861,
+          "name": "Mönsterås kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 862,
+          "name": "Emmaboda kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 880,
+          "name": "Kalmar kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 881,
+          "name": "Nybro kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 882,
+          "name": "Oskarshamns kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 883,
+          "name": "Västerviks kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 884,
+          "name": "Vimmerby kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 885,
+          "name": "Borgholms kommun",
+          "county": "Kalmar län"
+        },
+        {
+          "code": 980,
+          "name": "Gotlands kommun",
+          "county": "Gotlands län"
+        },
+        {
+          "code": 1060,
+          "name": "Olofströms kommun",
+          "county": "Blekinge län"
+        },
+        {
+          "code": 1080,
+          "name": "Karlskrona kommun",
+          "county": "Blekinge län"
+        },
+        {
+          "code": 1081,
+          "name": "Ronneby kommun",
+          "county": "Blekinge län"
+        },
+        {
+          "code": 1082,
+          "name": "Karlshamns kommun",
+          "county": "Blekinge län"
+        },
+        {
+          "code": 1083,
+          "name": "Sölvesborgs kommun",
+          "county": "Blekinge län"
+        },
+        {
+          "code": 1214,
+          "name": "Svalövs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1230,
+          "name": "Staffanstorps kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1231,
+          "name": "Burlövs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1233,
+          "name": "Vellinge kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1256,
+          "name": "Östra Göinge kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1257,
+          "name": "Örkelljunga kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1260,
+          "name": "Bjuvs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1261,
+          "name": "Kävlinge kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1262,
+          "name": "Lomma kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1263,
+          "name": "Svedala kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1264,
+          "name": "Skurups kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1265,
+          "name": "Sjöbo kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1266,
+          "name": "Hörby kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1267,
+          "name": "Höörs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1270,
+          "name": "Tomelilla kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1272,
+          "name": "Bromölla kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1273,
+          "name": "Osby kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1275,
+          "name": "Perstorps kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1276,
+          "name": "Klippans kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1277,
+          "name": "Åstorps kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1278,
+          "name": "Båstads kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1280,
+          "name": "Malmö kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1281,
+          "name": "Lunds kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1282,
+          "name": "Landskrona kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1283,
+          "name": "Helsingborgs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1284,
+          "name": "Höganäs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1285,
+          "name": "Eslövs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1286,
+          "name": "Ystads kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1287,
+          "name": "Trelleborgs kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1290,
+          "name": "Kristianstads kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1291,
+          "name": "Simrishamns kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1292,
+          "name": "Ängelholms kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1293,
+          "name": "Hässleholms kommun",
+          "county": "Skåne län"
+        },
+        {
+          "code": 1315,
+          "name": "Hylte kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1380,
+          "name": "Halmstads kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1381,
+          "name": "Laholms kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1382,
+          "name": "Falkenbergs kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1383,
+          "name": "Varbergs kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1384,
+          "name": "Kungsbacka kommun",
+          "county": "Hallands län"
+        },
+        {
+          "code": 1401,
+          "name": "Härryda kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1402,
+          "name": "Partille kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1407,
+          "name": "Öckerö kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1415,
+          "name": "Stenungsunds kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1419,
+          "name": "Tjörns kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1421,
+          "name": "Orusts kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1427,
+          "name": "Sotenäs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1430,
+          "name": "Munkedals kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1435,
+          "name": "Tanums kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1438,
+          "name": "Dals-Eds kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1439,
+          "name": "Färgelanda kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1440,
+          "name": "Ale kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1441,
+          "name": "Lerums kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1442,
+          "name": "Vårgårda kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1443,
+          "name": "Bollebygds kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1444,
+          "name": "Grästorps kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1445,
+          "name": "Essunga kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1446,
+          "name": "Karlsborgs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1447,
+          "name": "Gullspångs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1452,
+          "name": "Tranemo kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1460,
+          "name": "Bengtsfors kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1461,
+          "name": "Melleruds kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1462,
+          "name": "Lilla Edets kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1463,
+          "name": "Marks kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1465,
+          "name": "Svenljunga kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1466,
+          "name": "Herrljunga kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1470,
+          "name": "Vara kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1471,
+          "name": "Götene kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1472,
+          "name": "Tibro kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1473,
+          "name": "Töreboda kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1480,
+          "name": "Göteborgs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1481,
+          "name": "Mölndals kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1482,
+          "name": "Kungälvs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1484,
+          "name": "Lysekils kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1485,
+          "name": "Uddevalla kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1486,
+          "name": "Strömstads kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1487,
+          "name": "Vänersborgs kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1488,
+          "name": "Trollhättans kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1489,
+          "name": "Alingsås kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1490,
+          "name": "Borås kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1491,
+          "name": "Ulricehamns kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1492,
+          "name": "Åmåls kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1493,
+          "name": "Mariestads kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1494,
+          "name": "Lidköpings kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1495,
+          "name": "Skara kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1496,
+          "name": "Skövde kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1497,
+          "name": "Hjo kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1498,
+          "name": "Tidaholms kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1499,
+          "name": "Falköpings kommun",
+          "county": "Västra Götalands län"
+        },
+        {
+          "code": 1715,
+          "name": "Kils kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1730,
+          "name": "Eda kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1737,
+          "name": "Torsby kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1760,
+          "name": "Storfors kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1761,
+          "name": "Hammarö kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1762,
+          "name": "Munkfors kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1763,
+          "name": "Forshaga kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1764,
+          "name": "Grums kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1765,
+          "name": "Årjängs kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1766,
+          "name": "Sunne kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1780,
+          "name": "Karlstads kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1781,
+          "name": "Kristinehamns kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1782,
+          "name": "Filipstads kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1783,
+          "name": "Hagfors kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1784,
+          "name": "Arvika kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1785,
+          "name": "Säffle kommun",
+          "county": "Värmlands län"
+        },
+        {
+          "code": 1814,
+          "name": "Lekebergs kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1860,
+          "name": "Laxå kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1861,
+          "name": "Hallsbergs kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1862,
+          "name": "Degerfors kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1863,
+          "name": "Hällefors kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1864,
+          "name": "Ljusnarsbergs kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1880,
+          "name": "Örebro kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1881,
+          "name": "Kumla kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1882,
+          "name": "Askersunds kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1883,
+          "name": "Karlskoga kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1884,
+          "name": "Nora kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1885,
+          "name": "Lindesbergs kommun",
+          "county": "Örebro län"
+        },
+        {
+          "code": 1904,
+          "name": "Skinnskattebergs kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1907,
+          "name": "Surahammars kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1960,
+          "name": "Kungsörs kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1961,
+          "name": "Hallstahammars kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1962,
+          "name": "Norbergs kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1980,
+          "name": "Västerås kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1981,
+          "name": "Sala kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1982,
+          "name": "Fagersta kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1983,
+          "name": "Köpings kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 1984,
+          "name": "Arboga kommun",
+          "county": "Västmanlands län"
+        },
+        {
+          "code": 2021,
+          "name": "Vansbro kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2023,
+          "name": "Malung-Sälens kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2026,
+          "name": "Gagnefs kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2029,
+          "name": "Leksands kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2031,
+          "name": "Rättviks kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2034,
+          "name": "Orsa kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2039,
+          "name": "Älvdalens kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2061,
+          "name": "Smedjebackens kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2062,
+          "name": "Mora kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2080,
+          "name": "Falu kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2081,
+          "name": "Borlänge kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2082,
+          "name": "Säters kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2083,
+          "name": "Hedemora kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2084,
+          "name": "Avesta kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2085,
+          "name": "Ludvika kommun",
+          "county": "Dalarnas län"
+        },
+        {
+          "code": 2101,
+          "name": "Ockelbo kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2104,
+          "name": "Hofors kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2121,
+          "name": "Ovanåkers kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2132,
+          "name": "Nordanstigs kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2161,
+          "name": "Ljusdals kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2180,
+          "name": "Gävle kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2181,
+          "name": "Sandvikens kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2182,
+          "name": "Söderhamns kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2183,
+          "name": "Bollnäs kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2184,
+          "name": "Hudiksvalls kommun",
+          "county": "Gävleborgs län"
+        },
+        {
+          "code": 2260,
+          "name": "Ånge kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2262,
+          "name": "Timrå kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2280,
+          "name": "Härnösands kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2281,
+          "name": "Sundsvalls kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2282,
+          "name": "Kramfors kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2283,
+          "name": "Sollefteå kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2284,
+          "name": "Örnsköldsviks kommun",
+          "county": "Västernorrlands län"
+        },
+        {
+          "code": 2303,
+          "name": "Ragunda kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2305,
+          "name": "Bräcke kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2309,
+          "name": "Krokoms kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2313,
+          "name": "Strömsunds kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2321,
+          "name": "Åre kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2326,
+          "name": "Bergs kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2361,
+          "name": "Härjedalens kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2380,
+          "name": "Östersunds kommun",
+          "county": "Jämtlands län"
+        },
+        {
+          "code": 2401,
+          "name": "Nordmalings kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2403,
+          "name": "Bjurholms kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2404,
+          "name": "Vindelns kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2409,
+          "name": "Robertsfors kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2417,
+          "name": "Norsjö kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2418,
+          "name": "Malå kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2421,
+          "name": "Storumans kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2422,
+          "name": "Sorsele kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2425,
+          "name": "Dorotea kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2460,
+          "name": "Vännäs kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2462,
+          "name": "Vilhelmina kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2463,
+          "name": "Åsele kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2480,
+          "name": "Umeå kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2481,
+          "name": "Lycksele kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2482,
+          "name": "Skellefteå kommun",
+          "county": "Västerbottens län"
+        },
+        {
+          "code": 2505,
+          "name": "Arvidsjaurs kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2506,
+          "name": "Arjeplogs kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2510,
+          "name": "Jokkmokks kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2513,
+          "name": "Överkalix kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2514,
+          "name": "Kalix kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2518,
+          "name": "Övertorneå kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2521,
+          "name": "Pajala kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2523,
+          "name": "Gällivare kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2560,
+          "name": "Älvsbyns kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2580,
+          "name": "Luleå kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2581,
+          "name": "Piteå kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2582,
+          "name": "Bodens kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2583,
+          "name": "Haparanda kommun",
+          "county": "Norrbottens län"
+        },
+        {
+          "code": 2584,
+          "name": "Kiruna kommun",
+          "county": "Norrbottens län"
+        }
+       ]
+ }

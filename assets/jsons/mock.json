@@ -1,0 +1,185 @@
+{
+    "totalCount": 1253,
+    "count": 5,
+    "listings": [
+        {
+            "booliId": 3068723,
+            "listPrice": 3995000,
+            "published": "2018-01-11 16:30:15",
+            "source": {
+                "id": 132,
+                "name": "Diplomat Fastighetsmäkleri AB",
+                "url": "http://www.diplomatmakleri.se/",
+                "type": "Broker"
+            },
+            "location": {
+                "namedAreas": [
+                    "Kvarnholmen"
+                ],
+                "address": {
+                    "streetAddress": "Tre Kronors väg 31"
+                },
+                "region": {
+                    "municipalityName": "Nacka",
+                    "countyName": "Stockholms län"
+                },
+                "position": {
+                    "longitude": 18.1386691,
+                    "latitude": 59.3164934
+                }
+            },
+            "objectType": "Lägenhet",
+            "rooms": 2,
+            "livingArea": 57,
+            "rent": 3498,
+            "floor": 1,
+            "constructionYear": 2017,
+            "url": "https://www.booli.se/annons/3068723"
+        },
+        {
+            "booliId": 3068697,
+            "listPrice": 3195000,
+            "published": "2018-01-11 16:15:40",
+            "source": {
+                "id": 1564,
+                "name": "Erik Olsson Fastighetsförmedling",
+                "url": "http://www.erikolsson.se/",
+                "type": "Broker"
+            },
+            "location": {
+                "namedAreas": [
+                    "Järla Sjö"
+                ],
+                "address": {
+                    "streetAddress": "Winborgs väg 17"
+                },
+                "region": {
+                    "municipalityName": "Nacka",
+                    "countyName": "Stockholms län"
+                },
+                "position": {
+                    "longitude": 18.15108776,
+                    "latitude": 59.30526433
+                }
+            },
+            "isNewConstruction": 1,
+            "objectType": "Lägenhet",
+            "rooms": 2,
+            "livingArea": 52,
+            "additionalArea": 0,
+            "rent": 3033,
+            "floor": 3,
+            "constructionYear": 2017,
+            "url": "https://www.booli.se/annons/3068697"
+        },
+        {
+            "booliId": 3068269,
+            "listPrice": 4995000,
+            "published": "2018-01-11 16:03:29",
+            "source": {
+                "id": 713,
+                "name": "Svensk Fastighetsförmedling",
+                "url": "http://www.svenskfast.se/",
+                "type": "Broker"
+            },
+            "location": {
+                "namedAreas": [
+                    "Kvarnholmen"
+                ],
+                "address": {
+                    "streetAddress": "Tre Kronors väg 4"
+                },
+                "region": {
+                    "municipalityName": "Nacka",
+                    "countyName": "Stockholms län"
+                },
+                "position": {
+                    "longitude": 18.13385,
+                    "latitude": 59.31549
+                }
+            },
+            "objectType": "Lägenhet",
+            "rooms": 2,
+            "livingArea": 63,
+            "rent": 3413,
+            "floor": 6,
+            "constructionYear": 2017,
+            "url": "https://www.booli.se/annons/3068269"
+        },
+        {
+            "booliId": 3068627,
+            "listPrice": 2290000,
+            "published": "2018-01-11 15:26:44",
+            "source": {
+                "id": 1610,
+                "name": "HusmanHagberg",
+                "url": "http://www.husmanhagberg.se/",
+                "type": "Broker"
+            },
+            "location": {
+                "namedAreas": [
+                    "Älta"
+                ],
+                "address": {
+                    "streetAddress": "Buxbomsvägen 12"
+                },
+                "region": {
+                    "municipalityName": "Nacka",
+                    "countyName": "Stockholms län"
+                },
+                "position": {
+                    "longitude": 18.18679333,
+                    "latitude": 59.24897776
+                }
+            },
+            "objectType": "Lägenhet",
+            "rooms": 2,
+            "livingArea": 54,
+            "additionalArea": 0,
+            "rent": 3362,
+            "floor": 0,
+            "constructionYear": 2016,
+            "url": "https://www.booli.se/annons/3068627"
+        },
+        {
+            "booliId": 3068614,
+            "listPrice": 7250000,
+            "published": "2018-01-11 15:15:37",
+            "source": {
+                "id": 713,
+                "name": "Svensk Fastighetsförmedling",
+                "url": "http://www.svenskfast.se/",
+                "type": "Broker"
+            },
+            "location": {
+                "namedAreas": [
+                    "Sicklaön"
+                ],
+                "address": {
+                    "streetAddress": "Tubinvägen 8A"
+                },
+                "region": {
+                    "municipalityName": "Nacka",
+                    "countyName": "Stockholms län"
+                },
+                "position": {
+                    "longitude": 18.15164,
+                    "latitude": 59.30482
+                }
+            },
+            "objectType": "Lägenhet",
+            "rooms": 4,
+            "livingArea": 102,
+            "rent": 5950,
+            "floor": 0,
+            "constructionYear": 2018,
+            "url": "https://www.booli.se/annons/3068614"
+        }
+    ],
+    "limit": 5,
+    "offset": 0,
+    "searchParams": {
+        "upcomingSale": 0,
+        "areaId": 76
+    }
+}
